@@ -1,0 +1,15 @@
+D:\FolderFr\Eonix\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\FolderFr\Eonix\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\FolderFr\Eonix\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\FolderFr\Eonix\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\FolderFr\Eonix\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\FolderFr\Eonix\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll

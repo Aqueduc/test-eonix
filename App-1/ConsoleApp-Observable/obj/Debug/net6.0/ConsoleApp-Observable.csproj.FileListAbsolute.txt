@@ -1,0 +1,15 @@
+D:\FolderFr\Eonix\ConsoleApp-Observable\bin\Debug\net6.0\ConsoleApp-Observable.exe
+D:\FolderFr\Eonix\ConsoleApp-Observable\bin\Debug\net6.0\ConsoleApp-Observable.deps.json
+D:\FolderFr\Eonix\ConsoleApp-Observable\bin\Debug\net6.0\ConsoleApp-Observable.runtimeconfig.json
+D:\FolderFr\Eonix\ConsoleApp-Observable\bin\Debug\net6.0\ConsoleApp-Observable.dll
+D:\FolderFr\Eonix\ConsoleApp-Observable\bin\Debug\net6.0\ConsoleApp-Observable.pdb
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.csproj.AssemblyReference.cache
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.GeneratedMSBuildEditorConfig.editorconfig
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.AssemblyInfoInputs.cache
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.AssemblyInfo.cs
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.csproj.CoreCompileInputs.cache
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.dll
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\refint\ConsoleApp-Observable.dll
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.pdb
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ConsoleApp-Observable.genruntimeconfig.cache
+D:\FolderFr\Eonix\ConsoleApp-Observable\obj\Debug\net6.0\ref\ConsoleApp-Observable.dll
