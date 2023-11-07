@@ -23,10 +23,10 @@ namespace ConsoleApp.DataObject
             Singe = new Singe(nomSinge);
         }
 
-        public Task ExecTours(Spectateur spectateur)
+        public void ExecTours(Spectateur spectateur)
         {
             if (spectateur is null)
-                return Task.FromResult(() => "Spectateur null");
+                return;
 
             for (int i = 0; i < Singe.LsTours.Count; i++)
             {
@@ -36,8 +36,6 @@ namespace ConsoleApp.DataObject
                 Console.WriteLine(string.Format("{0} {1} '{2}' du singe {3}", spectateur.Nom, _reaction, _tour.Nom, Singe.Nom));
                 Thread.Sleep(2000);
             }
-
-            return Task.CompletedTask;
         }
 
 
